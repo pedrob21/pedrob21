@@ -1,6 +1,6 @@
 - <h1>👋 Hi, I’m Pedro</h1>
 # 💫 About Me:
-- 📖 I'm an Information Systems from University of São Paulo<br>- 🌱 I'm currently learning JavaScript and databases<br>- 💬 I'm interested in software engineering and development<br>- 📫 How to reach me: pbernardorp21@usp.br
+- 📖 I'm an Information Systems from University of São Paulo<br>- 🌱 I'm currently learning React.js<br>- 💬 I'm interested in software engineering, development and Artificial Intelligence<br>- 📫 How to reach me: pbernardorp21@usp.br
 
 
 ## 🌐 Socials:
